@@ -1,0 +1,16 @@
+# Firebase/Google Cloud config (quello della foto!)
+lib/firebase_options.dart
+
+# Credenziali e segreti
+.env
+*.secret
+credentials.json
+
+# Cartelle di build e dipendenze
+.dart_tool/
+build/
+.packages
+apiKeys.env
+token.json
+firebase_options.dart
+.env

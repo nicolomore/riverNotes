@@ -1,0 +1,99 @@
+{
+  "@@locale": "ru",
+  "appTitle": "River Notes",
+  "@appTitle": {
+    "description": "Название приложения"
+  },
+  "searchHint": "Поиск...",
+  "@searchHint": {
+    "description": "Текст-заполнитель для строки поиска"
+  },
+  "noNotes": "Нет заметок",
+  "@noNotes": {
+    "description": "Сообщение, когда нет заметок"
+  },
+  "deleteNote": "Удалить заметку",
+  "@deleteNote": {
+    "description": "Заголовок диалога подтверждения удаления"
+  },
+  "deleteConfirmation": "Вы уверены, что хотите удалить эту заметку?",
+  "@deleteConfirmation": {
+    "description": "Сообщение подтверждения удаления заметки"
+  },
+  "cancel": "Отмена",
+  "@cancel": {
+    "description": "Кнопка отмены"
+  },
+  "delete": "Удалить",
+  "@delete": {
+    "description": "Кнопка удаления"
+  },
+  "editNote": "Редактировать заметку",
+  "@editNote": {
+    "description": "Заголовок экрана редактирования заметки"
+  },
+  "titleHint": "Название",
+  "@titleHint": {
+    "description": "Заполнитель для поля названия"
+  },
+  "contentPlaceholder": "Пишите здесь...",
+  "@contentPlaceholder": {
+    "description": "Заполнитель для содержимого заметки"
+  },
+  "pdfCreation": "Создание PDF...",
+  "@pdfCreation": {
+    "description": "Текст для создания PDF"
+  },
+  "shareNote": "Поделитесь своей заметкой!",
+  "@shareNote": {
+    "description": "Заполнитель для обмена заметкой"
+  },
+  "tagName": "Имя тега",
+  "@tagName": {
+    "description": "Заполнитель для создания тега"
+  },
+  "addTag": "Добавить тег",
+  "@addTag": {
+    "description": "Кнопка добавления тега"
+  },
+  "addToFavourites": "Добавить в избранное",
+  "@addToFavourites": {
+    "description": "Кнопка добавления в избранное"
+  },
+  "removeFromFavourites": "Удалить из избранного",
+  "@removeFromFavourites": {
+    "description": "Кнопка удаления из избранного"
+  },
+  "addCover": "Добавить обложку",
+  "@addCover": {
+    "description": "Кнопка добавления обложки"
+  },
+  "removeCover": "Удалить обложку",
+  "@removeCover": {
+    "description": "Кнопка удаления обложки"
+  },
+  "pinNote": "Закрепить вверху",
+  "@pinNote": {
+    "description": "Кнопка закрепления заметки вверху"
+  },
+  "unpinNote": "Открепить",
+  "@unpinNote": {
+    "description": "Кнопка открепления заметки"
+  },
+  "noCredits": "Кредиты исчерпаны",
+  "@noCredits": {
+    "description": "Заголовок оповещения об исчерпании кредитов"
+  },
+  "minutiEsauriti": "Вы исчерпали 180 минут заметок, сгенерированных ИИ",
+  "@minutiEsauriti": {
+    "description": "Содержимое оповещения об исчерпании минут"
+  },
+  "ok": "ОК",
+  "@ok": {
+    "description": "Кнопка подтверждения"
+  },
+  "untitled": "Без названия",
+  "@untitled": {
+    "description": "Название по умолчанию для заметок без названия"
+  }
+}

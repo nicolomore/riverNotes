@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226571457777",
+    "project_id": "river-notes-1a605",
+    "storage_bucket": "river-notes-1a605.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226571457777:android:f62dd99f620cad6b9cc550",
+        "android_client_info": {
+          "package_name": "com.nicolomore.rivernotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVGMdQvyhmC9SswvbrFAYsTdEikBApkm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

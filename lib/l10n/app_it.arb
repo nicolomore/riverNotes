@@ -1,0 +1,99 @@
+{
+  "@@locale": "it",
+  "appTitle": "River Notes",
+  "@appTitle": {
+    "description": "Titolo dell'applicazione"
+  },
+  "searchHint": "Cerca...",
+  "@searchHint": {
+    "description": "Testo di placeholder per la barra di ricerca"
+  },
+  "noNotes": "Nessuna nota",
+  "@noNotes": {
+    "description": "Messaggio quando non ci sono note"
+  },
+  "deleteNote": "Elimina nota",
+  "@deleteNote": {
+    "description": "Titolo del dialog di conferma eliminazione"
+  },
+  "deleteConfirmation": "Sei sicuro di voler eliminare la nota?",
+  "@deleteConfirmation": {
+    "description": "Messaggio di conferma eliminazione nota"
+  },
+  "cancel": "Annulla",
+  "@cancel": {
+    "description": "Pulsante annulla"
+  },
+  "delete": "Elimina",
+  "@delete": {
+    "description": "Pulsante elimina"
+  },
+  "editNote": "Modifica nota",
+  "@editNote": {
+    "description": "Titolo della schermata di modifica nota"
+  },
+  "titleHint": "Titolo",
+  "@titleHint": {
+    "description": "Placeholder per il campo titolo"
+  },
+  "contentPlaceholder": "Scrivi qui...",
+  "@contentPlaceholder": {
+    "description": "Placeholder per il contenuto della nota"
+  },
+  "pdfCreation": "Creazione PDF in corso...",
+  "@pdfCreation": {
+    "description": "Testo per la creazione del PDF"
+  },
+  "shareNote": "Condividi la tua nota!",
+  "@shareNote": {
+    "description": "Placeholder per condividere la nota"
+  },
+  "tagName": "Nome del tag",
+  "@tagName": {
+    "description": "Placeholder per la creazione del tag"
+  },
+  "addTag": "Aggiungi tag",
+  "@addTag": {
+    "description": "Pulsante per aggiungere un tag"
+  },
+  "addToFavourites": "Aggiungi ai preferiti",
+  "@addToFavourites": {
+    "description": "Pulsante per aggiungere ai preferiti"
+  },
+  "removeFromFavourites": "Rimuovi dai preferiti",
+  "@removeFromFavourites": {
+    "description": "Pulsante per rimuovere dai preferiti"
+  },
+  "addCover": "Aggiungi copertina",
+  "@addCover": {
+    "description": "Pulsante per aggiungere una copertina"
+  },
+  "removeCover": "Rimuovi copertina",
+  "@removeCover": {
+    "description": "Pulsante per rimuovere la copertina"
+  },
+  "pinNote": "Fissa in alto",
+  "@pinNote": {
+    "description": "Pulsante per fissare la nota in alto"
+  },
+  "unpinNote": "Non fissare",
+  "@unpinNote": {
+    "description": "Pulsante per rimuovere il fissaggio della nota"
+  },
+  "noCredits": "Crediti esauriti",
+  "@noCredits": {
+    "description": "Titolo dell' alert per notificare che i crediti sono esauriti"
+  },
+  "minutiEsauriti": "Hai esaurito i 180 minuti di note generate dall'AI",
+  "@minutiEsauriti": {
+    "description": "Contenuto dell'alert che notifica l'esaurimento dei minuti"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "Pulsante di conferma"
+  },
+  "untitled": "Senza titolo",
+  "@untitled": {
+    "description": "Titolo predefinito per note senza titolo"
+  }
+}

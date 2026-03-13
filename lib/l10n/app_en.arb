@@ -1,0 +1,99 @@
+{
+  "@@locale": "en",
+  "appTitle": "River Notes",
+  "@appTitle": {
+    "description": "Application title"
+  },
+  "searchHint": "Search...",
+  "@searchHint": {
+    "description": "Placeholder text for search bar"
+  },
+  "noNotes": "No notes",
+  "@noNotes": {
+    "description": "Message when there are no notes"
+  },
+  "deleteNote": "Delete note",
+  "@deleteNote": {
+    "description": "Delete confirmation dialog title"
+  },
+  "deleteConfirmation": "Are you sure you want to delete this note?",
+  "@deleteConfirmation": {
+    "description": "Note deletion confirmation message"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button"
+  },
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete button"
+  },
+  "editNote": "Edit note",
+  "@editNote": {
+    "description": "Edit note screen title"
+  },
+  "titleHint": "Title",
+  "@titleHint": {
+    "description": "Placeholder for title field"
+  },
+  "contentPlaceholder": "Write here...",
+  "@contentPlaceholder": {
+    "description": "Placeholder for note content"
+  },
+  "pdfCreation": "Creating PDF...",
+  "@pdfCreation": {
+    "description": "Text for PDF creation"
+  },
+  "shareNote": "Share your note!",
+  "@shareNote": {
+    "description": "Placeholder for sharing note"
+  },
+  "tagName": "Tag name",
+  "@tagName": {
+    "description": "Placeholder for tag creation"
+  },
+  "addTag": "Add tag",
+  "@addTag": {
+    "description": "Button to add a tag"
+  },
+  "addToFavourites": "Add to favorites",
+  "@addToFavourites": {
+    "description": "Button to add to favorites"
+  },
+  "removeFromFavourites": "Remove from favorites",
+  "@removeFromFavourites": {
+    "description": "Button to remove from favorites"
+  },
+  "addCover": "Add cover",
+  "@addCover": {
+    "description": "Button to add a cover"
+  },
+  "removeCover": "Remove cover",
+  "@removeCover": {
+    "description": "Button to remove cover"
+  },
+  "pinNote": "Pin to top",
+  "@pinNote": {
+    "description": "Button to pin note to top"
+  },
+  "unpinNote": "Unpin",
+  "@unpinNote": {
+    "description": "Button to remove note pinning"
+  },
+  "noCredits": "Credits exhausted",
+  "@noCredits": {
+    "description": "Alert title to notify that credits are exhausted"
+  },
+  "minutiEsauriti": "You have used up your 180 minutes of AI-generated notes",
+  "@minutiEsauriti": {
+    "description": "Alert content notifying minutes exhaustion"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "Confirmation button"
+  },
+  "untitled": "Untitled",
+  "@untitled": {
+    "description": "Default title for notes without a title"
+  }
+}

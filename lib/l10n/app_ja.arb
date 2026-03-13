@@ -1,0 +1,99 @@
+{
+  "@@locale": "ja",
+  "appTitle": "River Notes",
+  "@appTitle": {
+    "description": "アプリケーションタイトル"
+  },
+  "searchHint": "検索...",
+  "@searchHint": {
+    "description": "検索バーのプレースホルダーテキスト"
+  },
+  "noNotes": "ノートがありません",
+  "@noNotes": {
+    "description": "ノートがない時のメッセージ"
+  },
+  "deleteNote": "ノートを削除",
+  "@deleteNote": {
+    "description": "削除確認ダイアログのタイトル"
+  },
+  "deleteConfirmation": "このノートを削除してもよろしいですか?",
+  "@deleteConfirmation": {
+    "description": "ノート削除確認メッセージ"
+  },
+  "cancel": "キャンセル",
+  "@cancel": {
+    "description": "キャンセルボタン"
+  },
+  "delete": "削除",
+  "@delete": {
+    "description": "削除ボタン"
+  },
+  "editNote": "ノートを編集",
+  "@editNote": {
+    "description": "ノート編集画面のタイトル"
+  },
+  "titleHint": "タイトル",
+  "@titleHint": {
+    "description": "タイトルフィールドのプレースホルダー"
+  },
+  "contentPlaceholder": "ここに書く...",
+  "@contentPlaceholder": {
+    "description": "ノート内容のプレースホルダー"
+  },
+  "pdfCreation": "PDF作成中...",
+  "@pdfCreation": {
+    "description": "PDF作成のテキスト"
+  },
+  "shareNote": "ノートを共有しましょう!",
+  "@shareNote": {
+    "description": "ノート共有のプレースホルダー"
+  },
+  "tagName": "タグ名",
+  "@tagName": {
+    "description": "タグ作成のプレースホルダー"
+  },
+  "addTag": "タグを追加",
+  "@addTag": {
+    "description": "タグ追加ボタン"
+  },
+  "addToFavourites": "お気に入りに追加",
+  "@addToFavourites": {
+    "description": "お気に入りに追加ボタン"
+  },
+  "removeFromFavourites": "お気に入りから削除",
+  "@removeFromFavourites": {
+    "description": "お気に入りから削除ボタン"
+  },
+  "addCover": "カバーを追加",
+  "@addCover": {
+    "description": "カバー追加ボタン"
+  },
+  "removeCover": "カバーを削除",
+  "@removeCover": {
+    "description": "カバー削除ボタン"
+  },
+  "pinNote": "上部に固定",
+  "@pinNote": {
+    "description": "ノートを上部に固定するボタン"
+  },
+  "unpinNote": "固定解除",
+  "@unpinNote": {
+    "description": "ノートの固定を解除するボタン"
+  },
+  "noCredits": "クレジットがありません",
+  "@noCredits": {
+    "description": "クレジットが使い果たされたことを通知するアラートタイトル"
+  },
+  "minutiEsauriti": "AI生成ノートの180分を使い切りました",
+  "@minutiEsauriti": {
+    "description": "分数が使い果たされたことを通知するアラート内容"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "確認ボタン"
+  },
+  "untitled": "無題",
+  "@untitled": {
+    "description": "タイトルのないノートのデフォルトタイトル"
+  }
+}

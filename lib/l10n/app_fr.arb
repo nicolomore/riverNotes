@@ -1,0 +1,99 @@
+{
+  "@@locale": "fr",
+  "appTitle": "River Notes",
+  "@appTitle": {
+    "description": "Titre de l'application"
+  },
+  "searchHint": "Rechercher...",
+  "@searchHint": {
+    "description": "Texte d'indication pour la barre de recherche"
+  },
+  "noNotes": "Aucune note",
+  "@noNotes": {
+    "description": "Message quand il n'y a pas de notes"
+  },
+  "deleteNote": "Supprimer la note",
+  "@deleteNote": {
+    "description": "Titre du dialogue de confirmation de suppression"
+  },
+  "deleteConfirmation": "Êtes-vous sûr de vouloir supprimer cette note ?",
+  "@deleteConfirmation": {
+    "description": "Message de confirmation de suppression de note"
+  },
+  "cancel": "Annuler",
+  "@cancel": {
+    "description": "Bouton annuler"
+  },
+  "delete": "Supprimer",
+  "@delete": {
+    "description": "Bouton supprimer"
+  },
+  "editNote": "Modifier la note",
+  "@editNote": {
+    "description": "Titre de l'écran de modification de note"
+  },
+  "titleHint": "Titre",
+  "@titleHint": {
+    "description": "Indication pour le champ titre"
+  },
+  "contentPlaceholder": "Écrivez ici...",
+  "@contentPlaceholder": {
+    "description": "Indication pour le contenu de la note"
+  },
+  "pdfCreation": "Création du PDF en cours...",
+  "@pdfCreation": {
+    "description": "Texte pour la création du PDF"
+  },
+  "shareNote": "Partagez votre note !",
+  "@shareNote": {
+    "description": "Indication pour partager la note"
+  },
+  "tagName": "Nom de l'étiquette",
+  "@tagName": {
+    "description": "Indication pour la création de l'étiquette"
+  },
+  "addTag": "Ajouter une étiquette",
+  "@addTag": {
+    "description": "Bouton pour ajouter une étiquette"
+  },
+  "addToFavourites": "Ajouter aux favoris",
+  "@addToFavourites": {
+    "description": "Bouton pour ajouter aux favoris"
+  },
+  "removeFromFavourites": "Retirer des favoris",
+  "@removeFromFavourites": {
+    "description": "Bouton pour retirer des favoris"
+  },
+  "addCover": "Ajouter une couverture",
+  "@addCover": {
+    "description": "Bouton pour ajouter une couverture"
+  },
+  "removeCover": "Retirer la couverture",
+  "@removeCover": {
+    "description": "Bouton pour retirer la couverture"
+  },
+  "pinNote": "Épingler en haut",
+  "@pinNote": {
+    "description": "Bouton pour épingler la note en haut"
+  },
+  "unpinNote": "Désépingler",
+  "@unpinNote": {
+    "description": "Bouton pour retirer l'épinglage de la note"
+  },
+  "noCredits": "Crédits épuisés",
+  "@noCredits": {
+    "description": "Titre de l'alerte pour notifier que les crédits sont épuisés"
+  },
+  "minutiEsauriti": "Vous avez épuisé vos 180 minutes de notes générées par l'IA",
+  "@minutiEsauriti": {
+    "description": "Contenu de l'alerte notifiant l'épuisement des minutes"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "Bouton de confirmation"
+  },
+  "untitled": "Sans titre",
+  "@untitled": {
+    "description": "Titre par défaut pour les notes sans titre"
+  }
+}

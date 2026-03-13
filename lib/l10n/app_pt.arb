@@ -1,0 +1,99 @@
+{
+  "@@locale": "pt",
+  "appTitle": "River Notes",
+  "@appTitle": {
+    "description": "Título do aplicativo"
+  },
+  "searchHint": "Pesquisar...",
+  "@searchHint": {
+    "description": "Texto de espaço reservado para a barra de pesquisa"
+  },
+  "noNotes": "Nenhuma nota",
+  "@noNotes": {
+    "description": "Mensagem quando não há notas"
+  },
+  "deleteNote": "Excluir nota",
+  "@deleteNote": {
+    "description": "Título do diálogo de confirmação de exclusão"
+  },
+  "deleteConfirmation": "Tem certeza de que deseja excluir esta nota?",
+  "@deleteConfirmation": {
+    "description": "Mensagem de confirmação de exclusão de nota"
+  },
+  "cancel": "Cancelar",
+  "@cancel": {
+    "description": "Botão cancelar"
+  },
+  "delete": "Excluir",
+  "@delete": {
+    "description": "Botão excluir"
+  },
+  "editNote": "Editar nota",
+  "@editNote": {
+    "description": "Título da tela de edição de nota"
+  },
+  "titleHint": "Título",
+  "@titleHint": {
+    "description": "Espaço reservado para o campo de título"
+  },
+  "contentPlaceholder": "Escreva aqui...",
+  "@contentPlaceholder": {
+    "description": "Espaço reservado para o conteúdo da nota"
+  },
+  "pdfCreation": "Criando PDF...",
+  "@pdfCreation": {
+    "description": "Texto para criação de PDF"
+  },
+  "shareNote": "Compartilhe sua nota!",
+  "@shareNote": {
+    "description": "Espaço reservado para compartilhar nota"
+  },
+  "tagName": "Nome da etiqueta",
+  "@tagName": {
+    "description": "Espaço reservado para criação de etiqueta"
+  },
+  "addTag": "Adicionar etiqueta",
+  "@addTag": {
+    "description": "Botão para adicionar etiqueta"
+  },
+  "addToFavourites": "Adicionar aos favoritos",
+  "@addToFavourites": {
+    "description": "Botão para adicionar aos favoritos"
+  },
+  "removeFromFavourites": "Remover dos favoritos",
+  "@removeFromFavourites": {
+    "description": "Botão para remover dos favoritos"
+  },
+  "addCover": "Adicionar capa",
+  "@addCover": {
+    "description": "Botão para adicionar capa"
+  },
+  "removeCover": "Remover capa",
+  "@removeCover": {
+    "description": "Botão para remover capa"
+  },
+  "pinNote": "Fixar no topo",
+  "@pinNote": {
+    "description": "Botão para fixar nota no topo"
+  },
+  "unpinNote": "Desafixar",
+  "@unpinNote": {
+    "description": "Botão para remover fixação da nota"
+  },
+  "noCredits": "Créditos esgotados",
+  "@noCredits": {
+    "description": "Título do alerta para notificar que os créditos estão esgotados"
+  },
+  "minutiEsauriti": "Você esgotou seus 180 minutos de notas geradas por IA",
+  "@minutiEsauriti": {
+    "description": "Conteúdo do alerta notificando esgotamento de minutos"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "Botão de confirmação"
+  },
+  "untitled": "Sem título",
+  "@untitled": {
+    "description": "Título padrão para notas sem título"
+  }
+}

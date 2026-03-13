@@ -1,0 +1,99 @@
+{
+  "@@locale": "de",
+  "appTitle": "River Notes",
+  "@appTitle": {
+    "description": "Anwendungstitel"
+  },
+  "searchHint": "Suchen...",
+  "@searchHint": {
+    "description": "Platzhaltertext für Suchleiste"
+  },
+  "noNotes": "Keine Notizen",
+  "@noNotes": {
+    "description": "Nachricht, wenn keine Notizen vorhanden sind"
+  },
+  "deleteNote": "Notiz löschen",
+  "@deleteNote": {
+    "description": "Titel des Löschbestätigungsdialogs"
+  },
+  "deleteConfirmation": "Möchten Sie diese Notiz wirklich löschen?",
+  "@deleteConfirmation": {
+    "description": "Bestätigungsnachricht zum Löschen der Notiz"
+  },
+  "cancel": "Abbrechen",
+  "@cancel": {
+    "description": "Abbrechen-Schaltfläche"
+  },
+  "delete": "Löschen",
+  "@delete": {
+    "description": "Löschen-Schaltfläche"
+  },
+  "editNote": "Notiz bearbeiten",
+  "@editNote": {
+    "description": "Titel des Notizbearbeitungsbildschirms"
+  },
+  "titleHint": "Titel",
+  "@titleHint": {
+    "description": "Platzhalter für Titelfeld"
+  },
+  "contentPlaceholder": "Hier schreiben...",
+  "@contentPlaceholder": {
+    "description": "Platzhalter für Notizinhalt"
+  },
+  "pdfCreation": "PDF wird erstellt...",
+  "@pdfCreation": {
+    "description": "Text für PDF-Erstellung"
+  },
+  "shareNote": "Teilen Sie Ihre Notiz!",
+  "@shareNote": {
+    "description": "Platzhalter zum Teilen der Notiz"
+  },
+  "tagName": "Tag-Name",
+  "@tagName": {
+    "description": "Platzhalter für Tag-Erstellung"
+  },
+  "addTag": "Tag hinzufügen",
+  "@addTag": {
+    "description": "Schaltfläche zum Hinzufügen eines Tags"
+  },
+  "addToFavourites": "Zu Favoriten hinzufügen",
+  "@addToFavourites": {
+    "description": "Schaltfläche zum Hinzufügen zu Favoriten"
+  },
+  "removeFromFavourites": "Aus Favoriten entfernen",
+  "@removeFromFavourites": {
+    "description": "Schaltfläche zum Entfernen aus Favoriten"
+  },
+  "addCover": "Cover hinzufügen",
+  "@addCover": {
+    "description": "Schaltfläche zum Hinzufügen eines Covers"
+  },
+  "removeCover": "Cover entfernen",
+  "@removeCover": {
+    "description": "Schaltfläche zum Entfernen des Covers"
+  },
+  "pinNote": "Oben anheften",
+  "@pinNote": {
+    "description": "Schaltfläche zum Anheften der Notiz oben"
+  },
+  "unpinNote": "Loslösen",
+  "@unpinNote": {
+    "description": "Schaltfläche zum Entfernen der Notizanheftung"
+  },
+  "noCredits": "Credits aufgebraucht",
+  "@noCredits": {
+    "description": "Titel der Benachrichtigung, dass Credits aufgebraucht sind"
+  },
+  "minutiEsauriti": "Sie haben Ihre 180 Minuten KI-generierter Notizen aufgebraucht",
+  "@minutiEsauriti": {
+    "description": "Inhalt der Benachrichtigung über aufgebrauchte Minuten"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "Bestätigungsschaltfläche"
+  },
+  "untitled": "Ohne Titel",
+  "@untitled": {
+    "description": "Standardtitel für Notizen ohne Titel"
+  }
+}

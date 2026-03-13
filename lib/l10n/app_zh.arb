@@ -1,0 +1,99 @@
+{
+  "@@locale": "zh",
+  "appTitle": "River Notes",
+  "@appTitle": {
+    "description": "应用程序标题"
+  },
+  "searchHint": "搜索...",
+  "@searchHint": {
+    "description": "搜索栏占位符文本"
+  },
+  "noNotes": "没有笔记",
+  "@noNotes": {
+    "description": "没有笔记时的消息"
+  },
+  "deleteNote": "删除笔记",
+  "@deleteNote": {
+    "description": "删除确认对话框标题"
+  },
+  "deleteConfirmation": "您确定要删除此笔记吗?",
+  "@deleteConfirmation": {
+    "description": "笔记删除确认消息"
+  },
+  "cancel": "取消",
+  "@cancel": {
+    "description": "取消按钮"
+  },
+  "delete": "删除",
+  "@delete": {
+    "description": "删除按钮"
+  },
+  "editNote": "编辑笔记",
+  "@editNote": {
+    "description": "编辑笔记屏幕标题"
+  },
+  "titleHint": "标题",
+  "@titleHint": {
+    "description": "标题字段占位符"
+  },
+  "contentPlaceholder": "在此书写...",
+  "@contentPlaceholder": {
+    "description": "笔记内容占位符"
+  },
+  "pdfCreation": "正在创建PDF...",
+  "@pdfCreation": {
+    "description": "PDF创建文本"
+  },
+  "shareNote": "分享您的笔记!",
+  "@shareNote": {
+    "description": "分享笔记占位符"
+  },
+  "tagName": "标签名称",
+  "@tagName": {
+    "description": "标签创建占位符"
+  },
+  "addTag": "添加标签",
+  "@addTag": {
+    "description": "添加标签按钮"
+  },
+  "addToFavourites": "添加到收藏",
+  "@addToFavourites": {
+    "description": "添加到收藏按钮"
+  },
+  "removeFromFavourites": "从收藏中移除",
+  "@removeFromFavourites": {
+    "description": "从收藏中移除按钮"
+  },
+  "addCover": "添加封面",
+  "@addCover": {
+    "description": "添加封面按钮"
+  },
+  "removeCover": "移除封面",
+  "@removeCover": {
+    "description": "移除封面按钮"
+  },
+  "pinNote": "置顶",
+  "@pinNote": {
+    "description": "置顶笔记按钮"
+  },
+  "unpinNote": "取消置顶",
+  "@unpinNote": {
+    "description": "取消置顶笔记按钮"
+  },
+  "noCredits": "点数已用完",
+  "@noCredits": {
+    "description": "通知点数已用完的警报标题"
+  },
+  "minutiEsauriti": "您已用完180分钟的AI生成笔记时长",
+  "@minutiEsauriti": {
+    "description": "通知分钟数已用完的警报内容"
+  },
+  "ok": "确定",
+  "@ok": {
+    "description": "确认按钮"
+  },
+  "untitled": "无标题",
+  "@untitled": {
+    "description": "无标题笔记的默认标题"
+  }
+}
